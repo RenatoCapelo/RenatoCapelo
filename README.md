@@ -26,7 +26,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-AppStore Client App
+ALtyra Solutions
 ```
 
 <!--END_SECTION:waka-->
