@@ -34,4 +34,4 @@ ALtyra Solutions
 📈 My GitHub Stats
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=RenatoCapelo&show_icons=true&theme=gotham&count_private=true" alt="RenatoCapelo" />
-
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenatoCapelo"/>
