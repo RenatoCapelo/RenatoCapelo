@@ -3,7 +3,7 @@
   <img align="left" alt="Renato's Linkedin" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"/>
 </a>
 <a href="https://discord.com/users/416268579353133056">
-  <img align="left" alt="Renato's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+  <img align="left" alt="Renato's Discord" width="22px" src="https://lh3.googleusercontent.com/qjyS2FBKXz8JStcMKofzOqmJuxIOPJ9q-EWE8EdiYP2w1kLob8VwR-Kpcv6AiG2FPTzN=s32" />
 </a>
 <a href="https://open.spotify.com/user/2rl7bw7ffjk27q25epvs6fau3?si=KcusGbHiQP-rrrnHd58w7w">
   <img align="left" alt="Renato's Spotify" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/1/19/Spotify_logo_without_text.svg" />
