@@ -1,36 +1,35 @@
-### Hi there 👋
+### Hey! 👋
+
+I'm a Software Engineer focused on cloud-native backend systems. Currently building and operating containerized .NET services on Azure and Kubernetes.
+
+Active open-source contributor — contributed bug fixes and enhancements to [Elsa Workflows](https://github.com/elsa-workflows/elsa-core), a .NET workflow engine.
+
 <a href="https://www.linkedin.com/in/renato-capelo-ventura/">
-  <img align="left" alt="Renato's Linkedin" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"/>
-</a>
-<a href="https://discord.com/users/416268579353133056">
-  <img align="left" alt="Renato's Discord" width="22px" src="https://static-00.iconduck.com/assets.00/discord-icon-512x512-cy0cb96g.png" />
+  <img align="left" alt="LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"/>
 </a>
 <a href="https://open.spotify.com/user/renato0077?si=66c656059c7d4c3a">
-  <img align="left" alt="Renato's Spotify" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/1/19/Spotify_logo_without_text.svg" />
+  <img align="left" alt="Spotify" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/1/19/Spotify_logo_without_text.svg" />
 </a>
+<br /><br />
 
-![](https://visitor-badge.glitch.me/badge?page_id=RenatoCapelo.RenatoCapelo)
+**Tech I work with:**
+
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" alt="C#"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dotnet/dotnet.png" alt=".NET"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="Docker"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png" alt="Kubernetes"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/azure/azure.png" alt="Azure"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="PostgreSQL"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git"></code>
 
 <br />
 
-**Languages and Tools:**  
-<code><img height="30" src="https://user-images.githubusercontent.com/55708901/170852510-7db075a8-b50a-4265-b4b7-2fe2283713a7.jpeg"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/xamarin/xamarin.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="30" src="https://user-images.githubusercontent.com/55708901/170852096-3645ce12-abd4-4059-a473-d900a36dba8e.png"></code>
+📈 **GitHub Activity**
 
-📊 **This Week I Spent My Time On:**
-<!--START_SECTION:waka-->
-
-```text
-Becoming Insane.
-```
-
-<!--END_SECTION:waka-->
-📈 My GitHub Stats
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=RenatoCapelo&show_icons=true&theme=gotham&count_private=true" alt="RenatoCapelo" />
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenatoCapelo"/>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RenatoCapelo&theme=gotham" alt="RenatoCapelo's streak" />
+</p>
+<p align="center">
+  <img src="https://ghchart.rshah.org/2B579A/RenatoCapelo" alt="RenatoCapelo's contribution graph" />
+</p>
